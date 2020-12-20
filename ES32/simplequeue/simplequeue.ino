@@ -21,7 +21,6 @@ void vSenderTask(void *pvPararmeters)
   } 
  
 }
-
 void vReceiverTask(void *pvParameters)
 {
   BaseType_t qStatus;
